@@ -1,0 +1,22 @@
+body {
+  margin: 0;
+  font-family: myFirstFont;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+@font-face {
+  font-family: myFirstFont;
+  src: url(fonts.ttf);
+}
+
+
+@font-face {
+  font-family: headerFont;
+  src: url(sharkFont.ttf);
+}
+
+
